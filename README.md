@@ -1,5 +1,5 @@
 # 👑Hey, I'm Shubham
-🎯 Computer Engineer!<br>
+🎯 <b>Computer Engineer!</b><br>
 🎮 Passionate in ceafting Full Stack Applications<br>
 🔭 Developer by day, Auto-enthusiast by night!<br>
 📫 Reach me at shuhbhamrokade277@gmail.com

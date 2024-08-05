@@ -2,7 +2,7 @@
 🎯 <b>Computer Engineer!</b><br>
 🎮 Passionate in crafting Full Stack Applications<br>
 🔭 Developer by day, Auto-enthusiast by night!<br>
-📫 Reach me at shuhbhamrokade277@gmail.com
+📫 Reach me at shubhamrokade277@gmail.com
 <br><br>
 
 # Socials:
